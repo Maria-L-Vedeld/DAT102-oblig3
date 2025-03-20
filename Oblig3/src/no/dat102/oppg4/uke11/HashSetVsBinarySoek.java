@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class HashSetVsBinarySearch {
+public class HashSetVsBinarySoek {
 	public static void main(String[] args) {
         int antElementer = 100_000;
         int maksVerdi = 1_000_000;
